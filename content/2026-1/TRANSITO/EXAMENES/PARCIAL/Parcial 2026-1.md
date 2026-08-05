@@ -295,7 +295,8 @@ $$
 \begin{align*}
 \frac{P_1}{\rho\cdot g}=H-d_1 \\
 \frac{P_2}{\rho\cdot g}=h-d_2
-\end{align*} \tag{3b.3}$$
+\end{align*} \tag{3b.3}
+$$
 Asi mismo, si vemos el angulo $\theta$, se cumple que,
 $$
 \sin{\theta}=\frac{d_1-d_2}{L} \tag{3b.4}

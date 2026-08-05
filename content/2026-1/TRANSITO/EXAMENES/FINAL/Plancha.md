@@ -198,12 +198,9 @@ Esta es una ecuación no lineal. En un examen, lo normal es resolverla por tante
 - Si probamos con $h_d = 4.8 \text{ m}$: $\frac{1}{4.8} + 6.264\sqrt{4.8} = 0.208 + 13.723 = 13.931$ (Falta un poco).
     
 - Resolviendo de forma exacta llegamos a:
-    
-    $$
+$$
 h_d \approx 4.854 \text{ m}
 $$
-    
-
 ### 5. Hallar la velocidad final
 
 Conociendo la profundidad de descarga, regresamos a la Ecuación B para calcular la velocidad en ese mismo instante:
@@ -234,14 +231,12 @@ El objetivo de las preguntas teóricas es demostrar cómo un sistema de derivada
 - **Matemáticamente:** Al sumar y restar las ecuaciones de continuidad y movimiento, el término de fuerzas es nulo ($E=0$).
     
 - **Resultado:**
-    
-    $$
+
+$$
 \frac{d}{dt}(v \pm 2c) = 0
 $$
-    
-- **Interpretación:** Como la derivada en el tiempo es cero, las cantidades $(v + 2c)$ y $(v - 2c)$ se mantienen **estrictamente constantes** a lo largo de las curvas características $dx/dt = v \pm c$. A estos valores constantes se les llama **Invariantes de Riemann**.
-    
 
+- **Interpretación:** Como la derivada en el tiempo es cero, las cantidades $(v + 2c)$ y $(v - 2c)$ se mantienen **estrictamente constantes** a lo largo de las curvas características $dx/dt = v \pm c$. A estos valores constantes se les llama **Invariantes de Riemann**.
 ### B. Canal real (Con fricción y pendiente)
 
 - **Físicamente:** El canal tiene inclinación ($S_o$) y rugosidad que genera pérdida de carga ($S_f$).
@@ -249,8 +244,7 @@ $$
 - **Matemáticamente:** Aparece el término de fuerzas externas $E = g(S_o - S_f)$.
     
 - **Resultado:**
-    
-    $$
+$$
 \frac{d}{dt}(v \pm 2c) = g(S_o - S_f)
 $$
     
