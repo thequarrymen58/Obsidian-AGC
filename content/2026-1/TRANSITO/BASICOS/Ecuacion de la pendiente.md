@@ -1,0 +1,1 @@
+Si tenemos dos puntos en plano cartesiano y queremos saber 
