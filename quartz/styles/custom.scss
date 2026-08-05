@@ -1,0 +1,15 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+/* Ocultar barras de desplazamiento horizontales en bloques de ecuaciones */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE y Edge */
+}
+
+.katex-display::-webkit-scrollbar {
+  display: none; /* Chrome, Safari y Opera */
+}
